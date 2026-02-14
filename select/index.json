@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ひだまりの詩",
+  "base_artist": "Le Couple",
+  "createdAt": "2026-02-14T13:47:44.144015Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひだまりの詩 (オリジナル・カラオケ)",
+      "artist": "Le Couple",
+      "has_synced": false,
+      "path": "select/01_ひだまりの詩_(オリジナル・カラオケ)_Le_Couple.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひだまりの詩",
+      "artist": "Le Couple",
+      "has_synced": false,
+      "path": "select/02_ひだまりの詩_Le_Couple.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひだまりの詩",
+      "artist": "ル・クプル",
+      "has_synced": true,
+      "path": "select/03_ひだまりの詩_ル・クプル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひだまりの詩",
+      "artist": "Le Couple",
+      "has_synced": true,
+      "path": "select/04_ひだまりの詩_Le_Couple.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひだまりの詩",
+      "artist": "藤田恵美",
+      "has_synced": false,
+      "path": "select/05_ひだまりの詩_藤田恵美.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひだまりの詩",
+      "artist": "Le Couple",
+      "has_synced": true,
+      "path": "select/06_ひだまりの詩_Le_Couple.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ひだまりの詩",
+      "artist": "ル・クプル",
+      "has_synced": true,
+      "path": "select/07_ひだまりの詩_ル・クプル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ひだまりの詩・Le Couple",
+      "artist": "Le Couple",
+      "has_synced": true,
+      "path": "select/08_ひだまりの詩・Le_Couple_Le_Couple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひだまりの詩",
+      "artist": "Le Couple",
+      "has_synced": false,
+      "path": "select/pl_01_ひだまりの詩_Le_Couple.txt"
+    }
+  ]
+}
